@@ -70,7 +70,7 @@ export default {
 }
 </script>
 <style>
-.dp__btn:hover {
+.dp__month_year_select:hover {
   background: none;
   pointer-events: none;
   cursor: default;
